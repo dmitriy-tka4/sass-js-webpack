@@ -13,3 +13,9 @@ JavaScript билдится из модулей в один файл `dist/bundl
 
 ## Help
 Писать на почту - dmitriy.tka4@gmail.com.
+
+---
+
+## TODO
+
+Добавить UglifyJS (как npm скрипт, или как плагин https://www.npmjs.com/package/uglifyjs-webpack-plugin)
