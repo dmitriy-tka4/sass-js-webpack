@@ -19,3 +19,5 @@ JavaScript билдится из модулей в один файл `dist/bundl
 ## TODO
 
 Добавить UglifyJS (как npm скрипт, или как плагин https://www.npmjs.com/package/uglifyjs-webpack-plugin)
+
+Пакет `style-loader` в данной сборке не нужен - см. https://github.com/webpack-contrib/style-loader
