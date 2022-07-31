@@ -6,6 +6,6 @@ import calc from './calc.js';
 
 console.log('i am loaded');
 
-let res = calc(4, 15);
+let result = calc(4, 15);
 
-console.log(`result calc = ${res}`);
+console.log(`result = ${result}`);
